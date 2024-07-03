@@ -1,6 +1,6 @@
 <h1>Modelo de Portfólio</h1>
 
-<h2>💻 Projeto</h2> Bem-vindo ao meu modelo de portfólio. Nesse projeto foi fornecido o html e css através das aulas da <a href= "https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags?preRequirementFrom=html-css-classes-posicionamento-flexbox">Alura</a> com os instrutores <a href= "https://www.linkedin.com/in/rafaella-ballerini-45875016a/?originalSubdomain=br">Rafaella Ballerini</a> e <a href= "https://www.linkedin.com/in/guilherme-lima-458925178/">Guilherme Lima</a>
+<h2>💻 Projeto</h2> Bem-vindo ao meu modelo de portfólio. Nesse projeto foi desenvolvido co html e css através das aulas da <a href= "https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags?preRequirementFrom=html-css-classes-posicionamento-flexbox">Alura</a> com os instrutores <a href= "https://www.linkedin.com/in/rafaella-ballerini-45875016a/?originalSubdomain=br">Rafaella Ballerini</a> e <a href= "https://www.linkedin.com/in/guilherme-lima-458925178/">Guilherme Lima</a>
 <p>Foram abordados temas como: o que são classes CSS e sua importância. - Flexbox e técnicas para posicionar seus elementos de forma prática. - efeitos de estilização alterando cores, arredondamentos e importar fontes para o projeto.</p>
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2> <div>
