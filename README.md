@@ -12,8 +12,3 @@
 <p>Implantado via <a href= "https://portfolio-model.vercel.app/">Vercel</a></p>
 
 <h2>:handshake: Contribuição</h2> Contribuições são bem-vindas! Se você deseja melhorar este projeto, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request. Obrigado por visitar meu GitHub e se possivel dê um <a href= "https://github.com/guiciriero">Follow</a>, que sigo de volta 😁, podemos trocas de ideias para novos projetos. <br> 
-
-## Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</div>
